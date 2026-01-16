@@ -4,5 +4,11 @@
     "name": "Media Player",
     "desc": "Plays .mcanim files",
     "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Player/manifest.json"
+  },
+  {
+    "id": "Term",
+    "name": "NgOS Terminal",
+    "desc": "Terminal",
+    "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Term/manifest.json"
   }
 ]

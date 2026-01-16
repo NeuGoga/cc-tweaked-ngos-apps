@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "files": {
+    "app.lua": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Term/app.lua"
+  }
+}
