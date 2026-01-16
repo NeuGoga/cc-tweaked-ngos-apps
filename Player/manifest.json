@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "files": {
+    "app.lua": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Player/app.lua",
+    "libs/animlib.lua": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Player/libs/animlib.lua",
+    "libs/base64.lua": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Player/libs/base64.lua",
+    "libs/zlib_decompress.lua": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Player/libs/zlib_decompress.lua"
+  }
+}

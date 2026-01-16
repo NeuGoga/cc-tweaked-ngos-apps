@@ -1,0 +1,8 @@
+[
+  {
+    "id": "Player",
+    "name": "Media Player",
+    "desc": "Plays .mcanim files",
+    "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Player/manifest.json"
+  }
+]
