@@ -10,5 +10,11 @@
     "name": "NgOS Terminal",
     "desc": "Terminal",
     "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Term/manifest.json"
+  },
+  {
+    "id": "Files",
+    "name": "NgOS Files",
+    "desc": "File Explorer",
+    "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Files/manifest.json"
   }
 ]

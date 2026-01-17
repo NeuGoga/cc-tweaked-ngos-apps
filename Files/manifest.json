@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "files": {
+    "app.lua": {
+      "url": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Files/app.lua",
+      "sha256": "e8a74860805b4853adf3da42bb1ae9d727cc338ecd9be18cf8a5425bae8484d6"
+    }
+  }
+}
