@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "files": {
+    "app.lua": {
+      "url": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Grabb/app.lua",
+      "sha256": "948260b3452f9947b6ae29ce0b336570c7dab11043e20f30cb12c2f07ab08253"
+    }
+  }  
+}

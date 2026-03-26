@@ -16,5 +16,11 @@
     "name": "NgOS Files",
     "desc": "File Explorer",
     "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Files/manifest.json"
+  },
+  {
+    "id": "Grabb",
+    "name": "Grabb",
+    "desc": "Github Grabber",
+    "manifest": "https://raw.githubusercontent.com/NeuGoga/cc-tweaked-ngos-apps/main/Grabb/manifest.json"
   }
 ]
